@@ -151,3 +151,5 @@ console.log(customer?.birthday?.getFullYear()); // Actual date / year
 let log: any = (message: string) => console.log(message);
 log?.('Hello')
 log?.(null)
+
+//  I'm a comment
