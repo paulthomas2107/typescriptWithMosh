@@ -152,4 +152,4 @@ let log: any = (message: string) => console.log(message);
 log?.('Hello')
 log?.(null)
 
-//  I'm a comment
+//  I'm a comment so am I
